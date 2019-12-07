@@ -1,4 +1,10 @@
 {
+  "arch": [
+    "amd64",
+    "i386",
+    "armv7",
+    "aarch64"
+  ],
   "name": "Homegear",
   "version": "0.2",
   "slug": "rpi-homegear",
